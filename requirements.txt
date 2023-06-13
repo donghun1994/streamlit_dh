@@ -1,3 +1,6 @@
 streamlit
 pandas
 numpy
+matplotlib.pyplot
+mysqlclient==2.1.1
+SQLAlchemy==2.0.16
